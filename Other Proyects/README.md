@@ -1,1 +1,1 @@
-Diseñno e implementacion de estructuras
+Diseño e implementacion de estructuras
